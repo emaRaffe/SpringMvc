@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<realm id="1"	NAME="name1"	description="description"		key="key1"	/>
+	<realm id="2"	NAME="name2"	description="description2"		key="key2"	/>
+</dataset>
