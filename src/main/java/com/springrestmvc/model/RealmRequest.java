@@ -13,8 +13,8 @@ public class RealmRequest implements Serializable {
     private static final long serialVersionUID = 1L;
 
     @NotNull(message = "Please provide first Name")
-    @NotEmpty(message = "ddddd")
-    @NotBlank(message = "ddddd")
+    @NotEmpty(message = "Provide not empty Nameo")
+    @NotBlank(message = "Provide not blank name")
     private String name;
     private String description;
 
